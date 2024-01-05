@@ -1,0 +1,55 @@
+body {
+    background-color: #E0F0FF;
+}
+
+.atop {
+    float: right;
+    margin-right: 10px;
+    margin-top: -1cm;
+    color: #273746;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.atop:hover {
+    color: hotpink;
+}
+
+.atop:active {
+    color: blue;
+}
+
+h2 {
+    color: gray;
+}
+
+.imggallery {
+    width: 320px;
+    height: 160px;
+    border-radius: 12px;
+}
+
+.img1 {
+    width: 640px;
+    height: 320px;
+}
+
+.div1 {
+
+    margin-left: 2cm;
+}
+
+.div2 {
+    float: right;
+    margin-right: 15cm;
+}
+
+.div4 {
+    float: right;
+    margin-right: -10cm;
+}
+
+p {
+    float: right;
+    font-family: Helvetica;
+}

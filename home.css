@@ -1,0 +1,49 @@
+.atop {
+    float: right;
+    margin-right: 10px;
+    margin-top: -1cm;
+    color: #273746;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.atop:hover {
+    color: pink;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+h2 {
+    color: gray;
+    margin-left: 30px;
+}
+
+h3 {
+    color: gray;
+    margin-left: 40px;
+}
+
+p {
+    background-color: aquamarine;
+    font-size: large;
+}
+
+pre {
+    font-family: Helvetica;
+}
+
+.a1 {
+    color: blue;
+}
+
+.a1:hover {
+    color: gray;
+}
+
+.linkimg {
+    width: 320px;
+    height: 160px;
+    border-radius: 50%;
+}
